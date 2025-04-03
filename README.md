@@ -17,6 +17,7 @@ A **dynamic and animated progress bar** built with **React**, featuring **smooth
 
 ![Screenshot from 2025-04-02 23-56-03](https://github.com/user-attachments/assets/7f803eb0-1442-44ed-8d7f-600f8b0dd230)
 
+
 🛠 Technologies Used
 
 🔹 React.js – For building the UI
